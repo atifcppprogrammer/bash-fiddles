@@ -1,7 +1,7 @@
 # flags
-Uses ascii characters to print on the terminal the flag of  
+Uses ascii characters to print on terminal the flag of  
 the country whose alpha code is provided as argument to  
-script, in a **cool** way.
+main.sh.
 
 ## Use
 The following examples illustrate printing the italian flag  
