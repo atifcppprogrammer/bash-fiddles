@@ -4,9 +4,10 @@
 #  / /__/ /_/ / /  / /_/ / / / / /_/ /
 #  \___/\____/_/   \____/_/ /_/\__,_/
 #
+# author - atifcppprogrammer
 
 # Determining if one and only one argument is provided to script, i.e
-# the name of the image which will house required image.
+# the name of the file which will house required image.
 if [ ! $# -eq 1 ]; then
   echo 'Provide destination path for storing required image file !!!';
   exit 1;

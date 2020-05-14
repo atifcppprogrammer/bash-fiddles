@@ -36,5 +36,5 @@ core='https://flaglane.com/download/'
 path=$demonym'-flag/'$demonym'-flag-large.jpg'
 flag=($(jp2a --color $core$path))
 for row in ${flag[@]}; do
-  echo $row; sleep 0.08
+  echo -e $row; sleep 0.08
 done

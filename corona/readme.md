@@ -2,7 +2,7 @@
 Scrapes image from [Dawn's](https://www.dawn.com) home page showing coronavirus cases for each province/territory of Pakistan.  
 
 ### Use
-The following example illustrates downloading image to corona.png file in Pictures Directory. When passing destination path to
+The following example illustrates downloading image to corona.png file in Pictures Directory, when passing destination path to
 script omit the file extension the script will sort that out based on the scraped image.  
 - bash main.sh /home/$USER/Pictures/corona
 
